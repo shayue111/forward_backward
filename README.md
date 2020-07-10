@@ -29,3 +29,7 @@ for epoch in epochs:
         7. 累加loss2w2, loss2b2, loss2w1, loss2b1
     update(w1, w2, b1, b2)
 ```
+
+## tips
+
+`main.cpp`中「鸢尾花数据集」的路径要正确
